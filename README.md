@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m Yuan Zhang from Peking University.
+🔭 I’m Zhang Yuan from Peking University.
 
 🌱 I’m currently working on machine learning and model compression.
 
