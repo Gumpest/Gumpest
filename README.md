@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Gumpest github stats](https://github-readme-stats.vercel.app/api?username=Gumpest&show_icons=true&theme=prussian&count_private=true)
-![Gumpest github stats] https://github-profile-trophy.vercel.app/?username=Gumpest
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumpest&layout=compact)
