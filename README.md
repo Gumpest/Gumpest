@@ -1,23 +1,7 @@
-### Hi there 👋
+Yuan Zhang is a Ph.D. candidate at CFCS, Peking University, advised by Prof. Shanghang Zhang and Prof. Kuan Cheng. Previously, he received his M.Eng. degree from Peking University and B.Eng. degree from Hohai University. He used to intern at SenseTime Research, Alibaba (DAMO Academy), ByteDance (Seed Foundation Model), and UC Berkeley (BAIR).
+His major research interests lie within efficient machine learning algorithms, like
 
-💬 I’m Zhang Yuan from Peking University.
+- Efficient AI (KD, Pruning, Quantization, Data Selection, Self-Play)
 
-🌱 I’m currently working on Deep Learning and Model Compression.
+- Multimodal Large Language Model
 
-<!--
-**Gumpest/Gumpest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on Deep Learning and Model Compression.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Gumpest github stats](https://github-readme-stats.vercel.app/api?username=Gumpest&show_icons=true&theme=prussian&count_private=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gumpest&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
